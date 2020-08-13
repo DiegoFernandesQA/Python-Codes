@@ -36,10 +36,7 @@ busca = xx.find("Rei")
 print(busca)
 print (xx [busca:])
 
-# replace: Substitui uma palavra por outra
+# replace: Substitui uma palavra por outra encontra a primeira e troca pela segunda 1ª Rei 2ª Rainha
 
 xx = xx.replace("Rei","Rainha")
 print(xx)
-
-
-idade
